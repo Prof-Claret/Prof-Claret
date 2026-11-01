@@ -1,85 +1,74 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=560&lines=Hi+%F0%9F%91%8B%2C+I'm+Claretiano+Samosir;Full+Stack+Developer;Learning+and+Building+Every+Day" alt="Typing SVG" />
+
+# 👋 Hi, I'm Prof-Claret
+
+### 🚀 Developer | Open-Source Enthusiast
+
+> *Anjay Gw Ngoding*
+>
+> *Tangiang Ni Dainang*
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Prof-Claret&label=Profile%20Views&color=blueviolet&style=for-the-badge)](https://github.com/Prof-Claret)
+
+[![GitHub followers](https://img.shields.io/github/followers/Prof-Claret?style=for-the-badge&logo=github&color=blueviolet)](https://github.com/Prof-Claret?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/Prof-Claret?style=for-the-badge&logo=github&color=ff69b4)](https://github.com/Prof-Claret?tab=repositories)
+
 </div>
 
-<p align="center">
-  <a href="https://github.com/Prof-Claret"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://wa.me/6281361475230"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-00FF00?style=for-the-badge" alt="Focus" />
-  <img src="https://img.shields.io/badge/Learning-Web%20Development-007ACC?style=for-the-badge" alt="Learning" />
-</p>
+## 🧑‍💻 About Me
 
----
+- 🔭 Building projects and experimenting with new technologies
+- 🌱 Always learning and improving my development skills
+- 💬 Passionate about web development, automation, and bots
+- ⚡ Motto: **Tangiang Ni Dainang**
 
-## 👨‍💻 About Me
+## 🛠️ Tech Stack
 
-Hello! I'm a passionate Full Stack Developer who enjoys turning ideas into real, useful digital experiences. I love building across frontend and backend, solving problems, and continuously learning new technologies.
+<div align="center">
 
-- 🚀 Interested in Full Stack Development and Web Engineering
-- 🎻 Also exploring music and creativity beyond coding
-- 💡 Always learning, improving, and shipping better solutions
-- 🌟 Enjoys creating impactful products and meaningful experiences
-
----
-
-## 🧠 Tech Stack
-
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
-
-### Backend & Database
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
-
-## 📈 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prof-Claret&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prof-Claret&theme=radical&hide_border=true" alt="GitHub Streak" height="180" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prof-Claret&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="500" />
-</div>
-
----
-
-## 🏆 Achievements
+## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Prof-Claret&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Prof-Claret&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prof-Claret&layout=compact&theme=tokyonight&hide_border=true" />
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Prof-Claret&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
 </div>
 
----
+## 🌟 Featured Projects
 
-## 🌐 Visitor Count
-
-<div align="center">
-  <img src="https://count.getloli.com/get/@Prof-Claret?theme=rule34" alt="Visitor Count" />
-</div>
-
----
+- 🤖 **[Doujinku-Scrap](https://github.com/Prof-Claret/Doujinku-Scrap)** — JavaScript project for scraping and data processing
+- 📅 **[Jadwal-Matkul-TI-Unika](https://github.com/Prof-Claret/jadwal-matkul-ti-unika)** — Course schedule application
+- 💬 **[Wa-Bot](https://github.com/Prof-Claret/Wa-Bot)** — WhatsApp bot built with TypeScript
+- 🎓 **[Website-Joki-MLBB-Laravel](https://github.com/Prof-Claret/Website-Joki-MLBB-Laravel)** — Web application built with Laravel
 
 ## 🤝 Connect With Me
 
 <div align="center">
-  <a href="https://github.com/Prof-Claret"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://wa.me/6281361475230"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+
+[![GitHub](https://img.shields.io/badge/GitHub-Prof--Claret-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prof-Claret)
+
 </div>
 
-<p align="center">
-  <i>“Building ideas into clean, useful, and meaningful products.”</i>
-</p>
+<div align="center">
 
----
+### ✨ Thanks for visiting!
+
+**Happy coding! 🎉**
+
+</div>
