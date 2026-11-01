@@ -69,15 +69,20 @@ default_response: "Ship it. Document it. Improve it."
 
 <br>
 
-## GitHub Analytics
+## GitHub Overview
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prof-Claret&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prof-Claret&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="Most used languages" />
+
+[![Repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FProf-Claret&query=%24.public_repos&label=Repositories&style=for-the-badge&logo=github&logoColor=white&color=8B5CF6)](https://github.com/Prof-Claret?tab=repositories)
+[![Followers](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FProf-Claret&query=%24.followers&label=Followers&style=for-the-badge&logo=github&logoColor=white&color=06B6D4)](https://github.com/Prof-Claret?tab=followers)
+[![Following](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FProf-Claret&query=%24.following&label=Following&style=for-the-badge&logo=github&logoColor=white&color=EC4899)](https://github.com/Prof-Claret?tab=following)
+
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Prof-Claret&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  <a href="https://github.com/Prof-Claret">
+    <img src="https://streak-stats.demolab.com/?user=Prof-Claret&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  </a>
 </div>
 
 <br>
